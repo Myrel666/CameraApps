@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+See tutorial at https://medium.com/@fernnandoptr/how-to-use-camera-in-flutter-flutter-camera-package-44defe81d2da
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
